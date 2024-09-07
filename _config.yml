@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: AromaBite
+description: AromaBite: An Edible Retronasal Olfactory Release Library
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://jingruchenmax.github.io/AromaBite
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/jingruchenmax/AromaBite
