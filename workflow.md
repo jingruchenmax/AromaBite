@@ -18,3 +18,5 @@ The process for creating **_AromaBite_** chambers involves six steps:
 6. **Inflate:** Watch as the **_AromaBite_** inflates and takes shape.
 
 This streamlined process allows for more efficient and repeatable production.
+
+![](workflow.jpg)

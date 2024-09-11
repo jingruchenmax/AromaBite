@@ -18,7 +18,7 @@ These heating methods are versatile and can be used in various settings. Sealed-
 
 Different heating methods result in various textures, tastes, and characteristics. For example, ovens provide consistent, smooth, and evenly baked chambers, while microwaves heat faster but often create uneven textures. The heating table may leave burn spots, and heat guns offer rapid inflation with more variation but require careful control.
 
-![Placeholder for Figure: Different heating methods on expansion](#)
+![](heatingmethods.jpg)
 
 ### Texture and Visual Differences
 

@@ -1,5 +1,5 @@
 ---
-title: Multisensory Chamber Design
+title: Multisensory Design
 layout: default
 nav_order: 4
 ---
