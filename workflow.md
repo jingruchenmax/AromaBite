@@ -19,4 +19,4 @@ The process for creating **_AromaBite_** chambers involves six steps:
 
 This streamlined process allows for more efficient and repeatable production.
 
-![](workflow.jpg)
+![](workflow-updated.png)
